@@ -1,0 +1,7 @@
+.text-align {
+  text-align: justify;
+  background-color: rgba(17, 83, 37, 0.02);
+  border-radius: 5px;
+  margin: 10px 0;
+  color: rgb(24, 2, 65);
+}
