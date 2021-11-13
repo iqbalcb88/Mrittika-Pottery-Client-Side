@@ -68,6 +68,12 @@ const Navigation = () => {
     >
       <List>
         <ListItem button>
+          <Link className={listItem} to='/home'>
+            Home
+          </Link>
+        </ListItem>
+        <Divider />
+        <ListItem button>
           <Link className={listItem} to='/allProducts'>
             AllProducts
           </Link>
